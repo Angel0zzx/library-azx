@@ -1,10 +1,10 @@
-# 📚 My Personal Library
+# 📚 Library Azx
 
 A progressive web application to manage your personal book collection in an intuitive and elegant way.
 
 ## 🎯 Description
 
-My Personal Library is a tool designed for readers who want to organize, track, and rate the books they have read, are reading, or plan to read. With a clean and minimalist interface, it allows you to keep a detailed record of your reading progress without complications.
+Library Azx is my Personal Library is a tool designed for readers who want to organize, track, and rate the books they have read, are reading, or plan to read. With a clean and minimalist interface, it allows you to keep a detailed record of your reading progress without complications.
 
 ## ✨ Current Features
 
@@ -45,10 +45,6 @@ Simply open the `index.html` file in your favorite browser. No additional instal
 2. Start adding books using the form
 3. Your data will be automatically saved in your browser
 
-## 🌐 Live Demo
-
-🔗 [View Demo](https://github.com/Angel0zzx/library-azx.git) *(Coming soon)*
-
 ## 📸 Screenshots
 ![Visual interface](images/Image1.jpg)
 
@@ -59,9 +55,8 @@ This is a personal learning project, but suggestions and feedback are welcome. I
 
 ## 👨‍💻 Author
 
-**Angel0zzx**
-- [GitHub](https://github.com/Angel0zzx)
-- Email: roa06138@gmail.com
+
+- Github: [**Angel0zzx**](https://github.com/Angel0zzx)
 
 ## 🙏 Acknowledgments
 
